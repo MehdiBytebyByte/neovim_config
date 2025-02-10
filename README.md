@@ -44,3 +44,5 @@ To use this configuration, follow these steps:
 
 1. Clone this repository into your `~/.config/nvim` directory:
    ```sh
+   https://github.com/MehdiBytebyByte/neovim_config.git
+   ```
